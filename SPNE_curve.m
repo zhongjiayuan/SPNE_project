@@ -4,7 +4,7 @@
 clear;
 clc;
 close all;
-[profile,pipi]= xlsread('good_KIRP_matrix_deal.xlsx');
+[profile,pipi]= xlsread('KIRP_data.xlsx');
 [empty,network]= xlsread('network.xlsx');
 
 
